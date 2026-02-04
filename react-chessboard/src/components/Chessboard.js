@@ -1,6 +1,5 @@
 import React from "react";
 import "./Chessboard.css";
-import Child from "./Child";
 import { useState, useMemo } from "react";
 
 /**
